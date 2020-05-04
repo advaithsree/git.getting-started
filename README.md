@@ -1,5 +1,5 @@
 # git.getting-started
-Training repository for basic GitHub functionality.(advaith)
+Training repository for basic GitHub functionality.
 
 ## Introduction
 Throughout the course, we will use Git - an industry standard version control software - for managing the lab. You need to understand the basics usage of Git for successfully carrying out the lab.
